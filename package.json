@@ -1,0 +1,21 @@
+{
+  "name": "otomoto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "pretty": "^2.0.0",
+    "puppeteer": "^13.0.1",
+    "puppeteer-core": "^13.0.1"
+  },
+  "devDependencies": {}
+}
