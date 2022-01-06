@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6093110235",
+    "title": "Mercedes-Benz Actros MP5",
+    "price": "70 000 EUR",
+    "production_year": "2019",
+    "registration_date": "11/11/2019",
+    "power": "450 KM",
+    "mileage": "12 800 cm3"
+  },
+  {
+    "id": "6090273354",
+    "title": "Mercedes-Benz Actros 1851",
+    "price": "386 400 PLN",
+    "production_year": "2018",
+    "registration_date": "22/01/2021",
+    "power": "510 KM",
+    "mileage": "12 809 cm3"
+  },
+  {
+    "id": "6092393087",
+    "title": "Mercedes-Benz Actros 1845",
+    "price": "105 000 PLN",
+    "production_year": "2015",
+    "registration_date": "",
+    "power": "450 KM",
+    "mileage": "12 809 cm3"
+  },
+  {
+    "id": "6093099176",
+    "title": "Mercedes-Benz ACTROS MP5 1845",
+    "price": "99 000 EUR",
+    "production_year": "2021",
+    "registration_date": "",
+    "power": "450 KM",
+    "mileage": "12 800 cm3"
+  }
+]
